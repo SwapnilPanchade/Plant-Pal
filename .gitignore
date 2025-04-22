@@ -2,8 +2,6 @@ node_modules/
 dist
 .env
 
-src/controllers
-src/middlewares
-src/models
-src/routes
-src/validators
+
+
+
