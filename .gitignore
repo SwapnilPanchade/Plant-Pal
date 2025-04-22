@@ -1,0 +1,9 @@
+node_modules/
+dist
+.env
+src/config
+src/controllers
+src/middlewares
+src/models
+src/routes
+src/validators
